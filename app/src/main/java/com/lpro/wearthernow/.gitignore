@@ -1,0 +1,7 @@
+# Android Studio / Gradle
+.idea/
+.gradle/
+build/
+**/build/
+local.properties     # contém sua OWM_KEY!
+.DS_Store
